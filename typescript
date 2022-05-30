@@ -1,0 +1,43 @@
+Script started on Mon Apr 18 20:50:47 2022
+[1m[7m%[27m[1m[0m                                                                                                                                                                       [0m[27m[24m[Jfranciscogiestas@MacBook-Pro-de-Francisco-2 SD % [K[?2004hccd c  ccd src[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                                       [0m[27m[24m[Jfranciscogiestas@MacBook-Pro-de-Francisco-2 src % [K[?2004hccd edu[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                                       [0m[27m[24m[Jfranciscogiestas@MacBook-Pro-de-Francisco-2 edu % [K[?2004hccd ufp/inf/sd/rmi/helloworld/_01_helloworld/runscripts/_1  [?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                                       [0m[27m[24m[Jfranciscogiestas@MacBook-Pro-de-Francisco-2 runscripts % [K[?2004hsscript _1_runpython.sh[?2004l
+Script started, output file is _1_runpython.sh
+[1m[7m%[27m[1m[0m                                                                                                                                                                       [0m[27m[24m[Jfranciscogiestas@MacBook-Pro-de-Francisco-2 runscripts % [K[?2004hr __1_r rnuu   unpython.sh[?2004l
+zsh: command not found: _1_runpython.sh
+[1m[7m%[27m[1m[0m                                                                                                                                                                       [0m[27m[24m[Jfranciscogiestas@MacBook-Pro-de-Francisco-2 runscripts % [K[?2004h- __1_runpython[?2004l
+zsh: command not found: _1_runpython
+[1m[7m%[27m[1m[0m                                                                                                                                                                       [0m[27m[24m[Jfranciscogiestas@MacBook-Pro-de-Francisco-2 runscripts % [K[?2004hssh _1_runpython.sh[?2004l
+Script started, output file is started
+Script: on: No such file or directory
+
+Script done, output file is started
+_1_runpython.sh: line 2: [1m[7m%[27m[1m[0m: command not found
+_1_runpython.sh: line 3: zsh:: command not found
+_1_runpython.sh: line 4: [1m[7m%[27m[1m[0m: command not found
+_1_runpython.sh: line 5: zsh:: command not found
+_1_runpython.sh: line 6: [1m[7m%[27m[1m[0m: command not found
+[1m[7m%[27m[1m[0m                                                                                                                                                                       [0m[27m[24m[Jfranciscogiestas@MacBook-Pro-de-Francisco-2 runscripts % [K[?2004hssh _1_runpython[?2004l
+sh: _1_runpython: No such file or directory
+[1m[7m%[27m[1m[0m                                                                                                                                                                       [0m[27m[24m[Jfranciscogiestas@MacBook-Pro-de-Francisco-2 runscripts % [K[?2004hsh _1_runpython.sh[?2004l
+Script started, output file is started
+Script: on: No such file or directory
+
+Script done, output file is started
+_1_runpython.sh: line 2: [1m[7m%[27m[1m[0m: command not found
+_1_runpython.sh: line 3: zsh:: command not found
+_1_runpython.sh: line 4: [1m[7m%[27m[1m[0m: command not found
+_1_runpython.sh: line 5: zsh:: command not found
+_1_runpython.sh: line 6: [1m[7m%[27m[1m[0m: command not found
+[1m[7m%[27m[1m[0m                                                                                                                                                                       [0m[27m[24m[Jfranciscogiestas@MacBook-Pro-de-Francisco-2 runscripts % [K[?2004hsh _1_runpython.sh[?2004l
+_1_runpython.sh: line 12: cd: /Users/rui/Documents/NetBeansProjects/SD/out/production/SD/: No such file or directory
+/Users/rui/Documents/NetBeansProjects/SD/out/production/SD/
+Serving HTTP on :: port 8000 (http://[::]:8000/) ...
+^C
+Keyboard interrupt received, exiting.
+_1_runpython.sh: line 21: cd: /Users/rui/Documents/NetBeansProjects/SD/src/edu/ufp/inf/sd/rmi/_01_helloworld/runscripts: No such file or directory
+[1m[7m%[27m[1m[0m                                                                                                                                                                       [0m[27m[24m[Jfranciscogiestas@MacBook-Pro-de-Francisco-2 runscripts % [K[?2004hsh _1_runpython.sh[?2004l
+_1_runpython.sh: line 12: cd: /Users/rui/Documents/NetBeansProjects/SD/out/production/SD/: No such file or directory
+/Users/rui/Documents/NetBeansProjects/SD/out/production/SD/
+Serving HTTP on :: port 8000 (http://[::]:8000/) ...
